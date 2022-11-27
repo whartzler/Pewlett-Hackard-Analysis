@@ -50,7 +50,9 @@ count	title
 12055	Technique Leader
 3588	Assistant Engineer
 9	Manager
-![image](https://user-images.githubusercontent.com/109490755/204154174-eafb4a85-3f5c-4656-af1a-edc207d8d20d.png)
+![image](https://user-images.githubusercontent.com/109490755/204154666-b0f580f7-7dad-4657-9411-b9438f24c8e2.png)
+
+
 
 ### Qualified Mentorship employees
 Currently there are 1,549 eligle retirement ready employees who qualify for the mentorship program.  With 167,666 employees not retiring these 1,549 employees will need to mentor about 108 individuals each.  The Mentorship program based on our data does not have enough qualified employees.
