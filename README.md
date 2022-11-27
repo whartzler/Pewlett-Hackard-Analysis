@@ -25,6 +25,7 @@ count	title
 
 ## Summary
 
+### Silver Wave impact
 As the silver wave approaches there will be 72,458 positions that will need to be filled.  As noted above most of the positions are senior positions while only 2 manager positions will need to be filled.
 
 count	title
@@ -51,7 +52,7 @@ count	title
 9	Manager
 ![image](https://user-images.githubusercontent.com/109490755/204154174-eafb4a85-3f5c-4656-af1a-edc207d8d20d.png)
 
-
+### Qualified Mentorship employees
 Currently there are 1,549 eligle retirement ready employees who qualify for the mentorship program.  With 167,666 employees not retiring these 1,549 employees will need to mentor about 108 individuals each.  The Mentorship program based on our data does not have enough qualified employees.
 
 
