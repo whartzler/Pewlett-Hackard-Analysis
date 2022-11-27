@@ -41,4 +41,15 @@ WHERE (de.to_date = '9999-01-01')
 ORDER BY e.emp_no;
 
 
+
+-- Creating Current Employees Titles table 
+SELECT COUNT(e.emp_no), ti.title
+INTO current_titles
+FROM employees AS e
+	INNER JOIN titles AS ti
+		ON (e.emp_no = ti.emp_no)
+WHERE (ti.to_date = '9999-01-01')
+GROUP BY ti.title
+ORDER BY COUNT(e.emp_no) DESC;
+
 		
