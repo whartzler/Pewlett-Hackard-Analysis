@@ -8,6 +8,7 @@ After reviewing the data pulled we have indentified 4 major points
 
 1. The title that has the most employees who are about to retire is Senior Engineer with 25,916 eligible employees, while the title with the least employees who are about to retire are Managers.
 2. 70% of the retiring employees hold Senior Positions 
+
 ![image](https://user-images.githubusercontent.com/109490755/204152554-90bb3887-ae04-4307-95dc-5edb0782e48d.png)
 
 3. From the retirement titles table there are a total of 133,776 entires when we filtered this table down to just unique titles of current employees there were 72,458 current employees.  We can conclude that there were 61,318 title changes for this demographic. 
