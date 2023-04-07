@@ -9,15 +9,6 @@ After reviewing the data pulled we have indentified 4 major points
 1. The title that has the most employees who are about to retire is Senior Engineer with 25,916 eligible employees, while the title with the least employees who are about to retire are Managers.
 2. 70% of the retiring employees hold Senior Positions 
 
-count	title
-25916	Senior Engineer
-24926	Senior Staff
-9285	Engineer
-7636	Staff
-3603	Technique Leader
-1090	Assistant Engineer
-2	Manager
-
 ![image](https://user-images.githubusercontent.com/109490755/204153171-83b3764e-2c0b-48b6-b0c8-ccfd37f01b99.png)
 
 
