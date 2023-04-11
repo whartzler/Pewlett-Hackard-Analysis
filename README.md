@@ -13,6 +13,7 @@ After reviewing the data pulled we have indentified 4 major points
 2. 70% of the retiring employees hold Senior Positions 
 
 3. From the retirement titles table there are a total of 133,776 entires when we filtered this table down to just unique titles of current employees there were 72,458 current employees.  We can conclude that there were 61,318 title changes for this demographic. 
+
 ![image](https://user-images.githubusercontent.com/109490755/230643628-3df70ba3-5098-4ddd-a8c8-695abca7df71.png)
 
 4. All of the employees who are eligible to be apart of the mentorship eligibility were born in January or February. 
