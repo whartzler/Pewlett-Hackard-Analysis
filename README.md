@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview 
-We are working with our manager to identify employees who are getting ready for retirement at Pewlett-Hackard.  Using SQL we will bucket the retireing employees based on their unique title and eligibility to participate in the mentorship program. 
+We are working with our manager to identify employees who are getting ready for retirement at Pewlett-Hackard.  Using SQL we will bucket the retiring employees based on their unique title and eligibility to participate in the mentorship program. 
 
 ## Results 
 After reviewing the data pulled we have indentified 4 major points
